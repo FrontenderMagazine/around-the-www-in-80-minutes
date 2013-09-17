@@ -83,7 +83,7 @@ worry, the W3C has [some helpful material][3] to guide you.”
 
     <meta charset="utf-8"/>
 
-    *A UTF-8 encoding declaration should appear at the beginning of every `<head>` element.*
+*A UTF-8 encoding declaration should appear at the beginning of every `<head>` element.*
 
 Passepartout adds, “Fonts and encoding declarations are important, but proper 
 typography requires so much more. And so… westward ho… to… the East….”
